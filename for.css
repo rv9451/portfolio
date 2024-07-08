@@ -379,8 +379,8 @@ nav ul .fa-solid{
     font-size: 18px;
 }
 .hel{
-    text-decoration: none;
-    color: aliceblue;
+    text-decoration: none !important;
+    color: aliceblue !important;
 }
 
 }
